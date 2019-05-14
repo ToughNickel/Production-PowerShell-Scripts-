@@ -1,0 +1,1 @@
+﻿Remove-Item -Path "\\l3-daas.nl01st-isl1c.oc.vmware.com\ams01-daas\AMS-DAP\Profiles\'*'" -Recurse
